@@ -28,7 +28,7 @@
         <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </td>
     <td>
-        <img alt="me working" width="320" src="https://giffun.ru/wp-content/uploads/2022/08/7d1.gif">
+        <img alt="me working" src="https://giffun.ru/wp-content/uploads/2022/08/7d1.gif">
     </td>
   </table>
 </p>
