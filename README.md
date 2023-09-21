@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=sedusik&style=flat-square" alt="Profile views" align="right">
 <h1 align="center"> Hi! :fire: </h1>
 <p align="center">I'm Tatyana, ccurrently looking for a job.</p>
 <p align="center">
