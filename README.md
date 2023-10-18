@@ -7,7 +7,7 @@
   <a href="mailto:tanasedusova@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://https://t.me/sedustan">
+  <a href="https://t.me/sedustan">
     <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
 </p>
