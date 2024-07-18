@@ -33,8 +33,3 @@
     </td>
   </table>
 </p>
-
-<p align="center">
-  <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=sedusik&show_icons=true&theme=radical" alt="sedusik Github Stats">
-</p>
